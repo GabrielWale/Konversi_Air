@@ -1,5 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Dice Roller</string>
+    <string name="app_name">Konversi Volume Air</string>
+    <string name="app_title">Konversi Volume ke Massa Air</string>
+    <string name="app_subtitle">Densitas air = 1 kg/L (pada suhu 4°C)</string>
+    <string name="label_input">Masukkan Volume Air</string>
+    <string name="hint_volume">Masukkan nilai volume</string>
+    <string name="label_unit_volume">Satuan Volume</string>
+    <string name="btn_convert">Konversi</string>
+    <string name="btn_reset">Reset</string>
+    <string name="label_result">Hasil Konversi Massa Air</string>
+    <string name="info_title">ℹ️ Informasi</string>
+    <string name="info_content">Rumus: Massa = Volume × Densitas Air\n\nDensitas air murni pada suhu 4°C = 1000 kg/m³ = 1 kg/L = 1 g/mL\n\nContoh: 5 Liter air → 5 kg</string>
+    <string name="error_empty">Masukkan nilai volume terlebih dahulu</string>
+    <string name="error_invalid">Nilai volume tidak valid</string>
+
+    <!-- Dice Roller strings (kept for reference) -->
     <string name="roll">Kocok Dadu</string>
     <string name="dice_image_desc">Gambar dadu</string>
 </resources>

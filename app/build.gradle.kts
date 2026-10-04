@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.diceroller"
+    namespace = "com.example.konversiair"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.diceroller"
+        applicationId = "com.example.konversiair"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
